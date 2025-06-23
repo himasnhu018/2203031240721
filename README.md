@@ -79,8 +79,4 @@ Roll No: 2203031240721
 Email: 2203031240721@paruluniversity.ac.in
 
 
-[registration](./screenshots/registration.png)
-![id](./screenshots/id.png)
-![handler](./screenshots/handler.png)
-![sortner](./screenshots/sortner.png)
-![get_sort_link](./screenshots/get_sort_link.png)
+![registration](https://github.com/user-attachments/assets/3cb19007-b640-410b-aa6e-0f3e88358516)
