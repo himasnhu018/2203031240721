@@ -78,5 +78,19 @@ Himanshu Kumar Gupta
 Roll No: 2203031240721
 Email: 2203031240721@paruluniversity.ac.in
 
+```
+![REGI](https://github.com/user-attachments/assets/f42b002e-5f13-4726-8bc2-3a331484e097)
+
+![id](https://github.com/user-attachments/assets/b35902dc-d1ff-49f4-9ef8-4875d4a720ae)
+
+![handler](https://github.com/user-attachments/assets/472cceaa-1912-46ab-a5ff-c2cdf2841b61)
+
+![sortner](https://github.com/user-attachments/assets/f0f31329-11a5-4db0-85de-5e82961f44c1)
+
+![get_sort_link](https://github.com/user-attachments/assets/9b24e513-3138-40bf-a79e-a9b2db3d3109)
+
+
+
+
 
 
