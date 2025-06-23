@@ -79,8 +79,23 @@ Roll No: 2203031240721
 Email: 2203031240721@paruluniversity.ac.in
 
 
-[registration](./screenshots/registration.png)
-![id](./screenshots/id.png)
-![handler](./screenshots/handler.png)
-![sortner](./screenshots/sortner.png)
-![get_sort_link](./screenshots/get_sort_link.png)
+
+---
+
+### 📸 Image Naming Tip
+
+Save your screenshots like this in a `screenshots/` folder:
+
+- `registration.png`
+- `id.png`
+- `handler.png`
+- `sortner.png`
+- `get_sort_link.png`
+
+> You can take screenshots directly from Postman after making each request and rename accordingly.
+
+---
+
+Would you like me to zip a folder structure + template screenshots to help you out quickly? Or do you want a Postman collection `.json` to import directly?
+
+Let me know — you're almost done! 🚀
