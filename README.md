@@ -79,8 +79,22 @@ Roll No: 2203031240721
 Email: 2203031240721@paruluniversity.ac.in
 
 
-[registration](./screenshots/registration.png)
-![id](./screenshots/id.png)
-![handler](./screenshots/handler.png)
-![sortner](./screenshots/sortner.png)
-![get_sort_link](./screenshots/get_sort_link.png)
+### 🔐 1. Registration Success
+
+![Registration](./screenshots/registration.png)
+
+### 🆔 2. Client ID & Secret Received
+
+![Client ID & Secret](./screenshots/id.png)
+
+### 🛠️ 3. Logging Middleware (Handler Example)
+
+![Handler Log](./screenshots/handler.png)
+
+### ✂️ 4. Shorten a Long URL
+
+![Shortener Working](./screenshots/sortner.png)
+
+### 🔁 5. Get Stats for a Short URL
+
+![Get Sort Link](./screenshots/get_sort_link.png)
