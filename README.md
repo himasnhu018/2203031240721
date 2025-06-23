@@ -82,23 +82,13 @@ Roll No: 2203031240721
 Email: 2203031240721@paruluniversity.ac.in
 
 
+![registration](https://github.com/user-attachments/assets/b08ee438-64d7-4f2c-bf30-1eec6e3dca2d)
+![id](https://github.com/user-attachments/assets/dfe50b86-bfc5-48e1-a870-b837be8c2463)
+![handler](https://github.com/user-attachments/assets/85a525e7-bd6e-47e3-966a-1bedccd757c7)
+![sortner](https://github.com/user-attachments/assets/5997112d-80aa-4f6c-8b5a-0e6e8870c056)
+![get_sort_link](https://github.com/user-attachments/assets/225964ea-ce23-4ffc-b3ba-b94d0a58beaa)
 
----
 
-### 📸 Image Naming Tip
 
-Save your screenshots like this in a `screenshots/` folder:
 
-- `registration.png`
-- `id.png`
-- `handler.png`
-- `sortner.png`
-- `get_sort_link.png`
 
-> You can take screenshots directly from Postman after making each request and rename accordingly.
-
----
-
-Would you like me to zip a folder structure + template screenshots to help you out quickly? Or do you want a Postman collection `.json` to import directly?
-
-Let me know — you're almost done! 🚀
